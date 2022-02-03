@@ -1,0 +1,9 @@
+[submodule "JFTT-L2"]
+	path = JFTT-L2
+	url = https://github.com/KrzysztofT415/JFTT-L2
+[submodule "JFTT-L3"]
+	path = JFTT-L3
+	url = https://github.com/KrzysztofT415/JFTT-L3
+[submodule "Compiler"]
+	path = Compiler
+	url = https://github.com/KrzysztofT415/Compiler
